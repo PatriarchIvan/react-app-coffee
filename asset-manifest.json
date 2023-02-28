@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-app-coffee/static/css/main.19a39e10.css",
+    "main.js": "/react-app-coffee/static/js/main.bbbb2caa.js",
+    "static/media/bg.jpg": "/react-app-coffee/static/media/bg.d243429cd62c72cc802f.jpg",
+    "static/media/header_main_bg.jpg": "/react-app-coffee/static/media/header_main_bg.13c26429023adfc89685.jpg",
+    "static/media/header_our.jpg": "/react-app-coffee/static/media/header_our.74793affcb17b11fd13b.jpg",
+    "static/media/header.jpg": "/react-app-coffee/static/media/header.03075d9daa498b57be73.jpg",
+    "static/media/photo.jpg": "/react-app-coffee/static/media/photo.9cab77e305016026ed1e.jpg",
+    "static/media/card_2.jpg": "/react-app-coffee/static/media/card_2.6e0b3ac4cfd9abcf1857.jpg",
+    "static/media/card_3.jpg": "/react-app-coffee/static/media/card_3.6dab05371ed1325ec72a.jpg",
+    "static/media/card_1.jpg": "/react-app-coffee/static/media/card_1.30c53fb8135b120b0b13.jpg",
+    "static/media/logo.svg": "/react-app-coffee/static/media/logo.76cc75be6b631b1b1b1a.svg",
+    "static/media/logo_black.svg": "/react-app-coffee/static/media/logo_black.b203ac4aa243222ebe7f.svg",
+    "static/media/coffee_icon_white.svg": "/react-app-coffee/static/media/coffee_icon_white.5bd6b7fb1a5e659fbbff.svg",
+    "static/media/coffee_icon_black.svg": "/react-app-coffee/static/media/coffee_icon_black.7c9cc97dd3e59f892c7d.svg",
+    "index.html": "/react-app-coffee/index.html",
+    "main.19a39e10.css.map": "/react-app-coffee/static/css/main.19a39e10.css.map",
+    "main.bbbb2caa.js.map": "/react-app-coffee/static/js/main.bbbb2caa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19a39e10.css",
+    "static/js/main.bbbb2caa.js"
+  ]
+}
